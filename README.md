@@ -1,130 +1,154 @@
 ---
-title: "A Gentle Introduction to Python"
+title: "Python Training Materials"
 author: "Teshome Deressa"
-date: "`r Sys.Date()`"
 output:
   github_document:
     toc: true
     toc_depth: 2
 ---
 
-# A Gentle Introduction to Python
+# Python Training Materials
 
-This repository contains the slides and materials for a hands-on introductory Python training designed for beginners in statistics, public health, and data science.
+This repository contains training materials developed and delivered for capacity-building workshops in Python programming, data analysis, statistics, and machine learning.
 
-## Overview
+The materials are designed for students, researchers, health professionals, and data analysts seeking practical skills in Python for data-driven decision-making.
 
-The training introduces participants to Python for data analysis, visualization, statistical inference, and basic machine learning using widely adopted libraries such as:
+## Training Modules
 
-- NumPy
+### 1. A Gentle Introduction to Python
+
+An introductory course covering the foundations of Python programming and data analysis.
+
+#### Topics Covered
+
+- Python fundamentals
+  - Variables and data types
+  - Lists, tuples, dictionaries, and sets
+  - Conditional statements and loops
+  - Functions and modules
+
+- Data handling with pandas
+  - Importing and exporting data
+  - Creating and manipulating DataFrames
+  - Filtering and subsetting data
+  - Handling missing values
+  - Merging datasets
+
+- Exploratory data analysis
+  - Data inspection
+  - Descriptive statistics
+  - Frequency tables
+  - Correlation analysis
+  - Grouped summaries
+
+- Data visualization
+  - Line plots
+  - Scatter plots
+  - Histograms
+  - Boxplots
+  - Bar charts
+  - Visualizations using matplotlib and seaborn
+
+- Statistical analysis
+  - Independent-samples t-tests
+  - Assumption checking
+  - Interpretation of results
+
+#### Learning Outcomes
+
+By the end of this module, participants will be able to:
+
+- Import and manage datasets in Python.
+- Clean and prepare data for analysis.
+- Perform exploratory data analysis.
+- Create publication-quality visualizations.
+- Conduct basic statistical analyses.
+
+---
+
+### 2. Machine Learning with Applications in Python
+
+An applied introduction to machine learning using Python and real-world datasets.
+
+#### Topics Covered
+
+- Introduction to machine learning
+- Supervised and unsupervised learning
+- Data preprocessing
+- Training and test datasets
+- Model building and prediction
+- Model evaluation and validation
+- Regression methods
+- Classification methods
+- Practical applications using scikit-learn
+
+#### Learning Outcomes
+
+By the end of this module, participants will be able to:
+
+- Understand fundamental machine learning concepts.
+- Prepare datasets for machine learning applications.
+- Train and evaluate predictive models.
+- Interpret model outputs and performance metrics.
+- Apply machine learning techniques to real-world problems.
+
+## Target Audience
+
+These training materials are suitable for:
+
+- Undergraduate and graduate students
+- Researchers
+- Public health professionals
+- Statisticians
+- Data analysts
+- Anyone interested in learning Python for data science
+
+## Software Requirements
+
+The examples use the following Python libraries:
+
 - pandas
+- NumPy
 - matplotlib
 - seaborn
 - SciPy
 - scikit-learn
 
-## Topics Covered
-
-### Python Fundamentals
-
-- Variables and data types
-- Lists, tuples, dictionaries, and sets
-- Conditional statements and loops
-- Functions and modules
-
-### Data Handling with pandas
-
-- Importing CSV, Excel, SAS, SPSS, and Stata files
-- Creating and modifying DataFrames
-- Filtering and subsetting data
-- Handling missing values (NaNs)
-- Merging datasets
-- Exporting data
-
-### Data Exploration
-
-- Dataset inspection
-- Descriptive statistics
-- Frequency tables
-- Correlation analysis
-- Grouping and aggregation
-
-### Data Visualization
-
-- Line plots
-- Scatter plots
-- Histograms
-- Boxplots
-- Bar charts
-- Advanced visualizations using seaborn
-
-### Statistical Analysis
-
-- Independent-samples t-tests
-- Assumption checking with Levene's test
-- Interpretation of statistical results
-
-### Machine Learning
-
-- Train-test data splitting
-- Simple linear regression using scikit-learn
-- Model evaluation using Mean Squared Error (MSE) and R-squared (R²)
-- Prediction and visualization of regression results
-
-## Target Audience
-
-This training is intended for:
-
-- Students
-- Researchers
-- Public health professionals
-- Data analysts
-- Anyone seeking a practical introduction to Python for data analysis
-
-## Training Details
+## Training Information
 
 | Item | Description |
 |--------|--------|
 | Instructor | Teshome Deressa, PhD |
 | Organization | Oromia Health Bureau, Ethiopia |
-| Date | September 2025 |
-| Level | Beginner |
+| Year | 2025 |
+| Language | Python |
+| Level | Beginner to Intermediate |
 
-## Learning Outcomes
-
-By the end of this training, participants will be able to:
-
-1. Import and manage datasets in Python.
-2. Clean and prepare data for analysis.
-3. Conduct exploratory data analysis.
-4. Create informative visualizations.
-5. Perform basic statistical analyses.
-6. Build and evaluate simple machine learning models.
-7. Apply Python workflows to real-world data problems.
-
-## Repository Contents
+## Repository Structure
 
 ```text
+.
 ├── slides/
-│   └── Introduction_to_Python.pdf
-├── datasets/
-│   ├── tips.csv
-│   ├── iris.csv
-│   └── life_expectancy.csv
-├── code/
-│   └── examples.py
+│   ├── A_Gentle_Introduction_to_Python.pdf
+│   └── Machine_Learning_with_Applications_in_Python.pdf
+├── README.Rmd
 └── README.md
 ```
 
-## License
+## Citation
 
-This material is shared for educational and non-commercial purposes. Please cite or acknowledge the author when using or adapting the content.
+If you use these materials for teaching, training, or research purposes, please acknowledge the source.
 
 ## Contact
 
-- Email: <tashe.zgreat@gmail.com>
-- GitHub: <https://github.com/teshomey>
-- LinkedIn: <https://www.linkedin.com>
+**Teshome Deressa, PhD**
+
+- GitHub: https://github.com/teshomey
+- LinkedIn: https://www.linkedin.com/in/teshomederessa
+
+---
+
+*"Quality over quantity!"*
 
 ---
 
