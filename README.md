@@ -1,12 +1,3 @@
----
-title: "Python Training Materials"
-author: "Teshome Deressa"
-output:
-  github_document:
-    toc: true
-    toc_depth: 2
----
-
 # Python Training Materials
 
 This repository contains training materials developed and delivered for capacity-building workshops in Python programming, data analysis, statistics, and machine learning.
@@ -134,22 +125,5 @@ The examples use the following Python libraries:
 ├── README.Rmd
 └── README.md
 ```
-
-## Citation
-
-If you use these materials for teaching, training, or research purposes, please acknowledge the source.
-
-## Contact
-
-**Teshome Deressa, PhD**
-
-- GitHub: https://github.com/teshomey
-- LinkedIn: https://www.linkedin.com/in/teshomederessa
-
----
-
-*"Quality over quantity!"*
-
----
 
 > **Motto:** *Quality over quantity!*
