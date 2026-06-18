@@ -121,7 +121,6 @@ The examples use the following Python libraries:
 │   ├── A_Gentle_Introduction_to_Python.pdf
 │   └── Machine_Learning_with_Applications_in_Python.pdf
 ├── README.Rmd
-└── README.md
 ```
 
 > **Motto:** *Quality Over Quantity!*
