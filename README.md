@@ -1,8 +1,6 @@
 # Python Training Materials
 
-This repository contains training materials developed and delivered for capacity-building workshops in Python programming, data analysis, statistics, and machine learning.
-
-The materials are designed for students, researchers, health professionals, and data analysts seeking practical skills in Python for data-driven decision-making.
+This repository contains training materials developed and delivered for capacity-building workshops in Python programming, data analysis, statistics, and machine learning. The materials are designed for students, researchers, health professionals, and data analysts seeking practical skills in Python for data-driven decision-making.
 
 ## Training Modules
 
