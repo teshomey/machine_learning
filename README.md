@@ -107,7 +107,7 @@ The examples use the following Python libraries:
 
 | Item | Description |
 |--------|--------|
-| Instructor | Teshome Deressa, PhD |
+| Instructor | Teshome K. Deressa, PhD |
 | Organization | Oromia Health Bureau, Ethiopia |
 | Year | 2025 |
 | Language | Python |
