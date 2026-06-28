@@ -1,14 +1,14 @@
-# Python Training Materials
+# Python training materials
 
 This repository contains training materials developed and delivered for capacity-building workshops in Python programming, data analysis, statistics, and machine learning. The materials are designed for students, researchers, health professionals, and data analysts seeking practical skills in Python for data-driven decision-making.
 
-## Training Modules
+## Training modules
 
 ### 1. A Gentle Introduction to Python
 
 An introductory course covering the foundations of Python programming and data analysis.
 
-#### Topics Covered
+#### Topics covered
 
 - Python fundamentals
   - Variables and data types
@@ -43,7 +43,7 @@ An introductory course covering the foundations of Python programming and data a
   - Assumption checking
   - Interpretation of results
 
-#### Learning Outcomes
+#### Learning outcomes
 
 By the end of this module, participants will be able to:
 
@@ -59,7 +59,7 @@ By the end of this module, participants will be able to:
 
 An applied introduction to machine learning using Python and real-world datasets.
 
-#### Topics Covered
+#### Topics covered
 
 - Introduction to machine learning
 - Supervised and unsupervised learning
@@ -71,7 +71,7 @@ An applied introduction to machine learning using Python and real-world datasets
 - Classification methods
 - Practical applications using scikit-learn
 
-#### Learning Outcomes
+#### Learning outcomes
 
 By the end of this module, participants will be able to:
 
@@ -81,7 +81,7 @@ By the end of this module, participants will be able to:
 - Interpret model outputs and performance metrics.
 - Apply machine learning techniques to real-world problems.
 
-## Target Audience
+## Target audience
 
 These training materials are suitable for:
 
@@ -92,7 +92,7 @@ These training materials are suitable for:
 - Data analysts
 - Anyone interested in learning Python for data science
 
-## Software Requirements
+## Software requirements
 
 The examples use the following Python libraries:
 
@@ -103,7 +103,7 @@ The examples use the following Python libraries:
 - SciPy
 - scikit-learn
 
-## Training Information
+## Training information
 
 | Item | Description |
 |--------|--------|
@@ -113,7 +113,7 @@ The examples use the following Python libraries:
 | Language | Python |
 | Level | Beginner to Intermediate |
 
-## Repository Structure
+## Repository structure
 
 ```text
 .
@@ -123,4 +123,4 @@ The examples use the following Python libraries:
 ├── README.Rmd
 ```
 
-> **Motto:** *Quality Over Quantity!*
+> **Motto:** *Quality over quantity!*
