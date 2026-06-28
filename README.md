@@ -123,4 +123,4 @@ The examples use the following Python libraries:
 ├── README.Rmd
 ```
 
-> **Motto:** *Quality over quantity!*
+> **Motto:** *Quality over quantity.*
