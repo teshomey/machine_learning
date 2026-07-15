@@ -4,7 +4,7 @@ This repository contains training materials developed and delivered for capacity
 
 ## Training modules
 
-### 1. A gentle introduction to Python
+### 1. A Gentle Introduction to Python
 
 An introductory course covering the foundations of Python programming and data analysis.
 
@@ -55,7 +55,7 @@ By the end of this module, participants will be able to:
 
 ---
 
-### 2. Machine learning with applications in Python
+### 2. Machine Learning with Applications in Python
 
 An applied introduction to machine learning using Python and real-world datasets.
 
